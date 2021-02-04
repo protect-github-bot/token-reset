@@ -29,12 +29,10 @@ Next time it might not get invalidated but used by whoever finds it.
 ## Links
 Heroku: https://devcenter.heroku.com/articles/config-vars  
 Repl.it: https://repl.it/site/docs/repls/secret-keys  
-Glitch: https://glitch.com/help/env/  
+Glitch: https://glitch.happyfox.com/kb/article/18-how-do-i-store-secrets-credentials-or-private-data/  
 GitIgnore: https://git-scm.com/docs/gitignore  
 Sensitive Data on GitHub: https://help.github.com/en/articles/removing-sensitive-data-from-a-repository
 ### Creation Serveurs
-Discord: https://discord.gg/MPARfex
-
-Website: *Soon*
-
-Email: [cserveurs@gmail.com](mailto:cserveurs@gmail.com)
+Discord: https://discord.gg/MPARfex  
+Website: *Soon*  
+Email: [cserveurs@gmail.com](mailto:cserveurs@gmail.com)  
