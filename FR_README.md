@@ -29,7 +29,7 @@ La prochaine fois, il pourrait ne pas être supprimé mais utilisé par celui qu
 ## Liens
 Heroku: https://devcenter.heroku.com/articles/config-vars  
 Repl.it: https://repl.it/site/docs/repls/secret-keys  
-Glitch: https://glitch.happyfox.com/kb/article/18-how-do-i-store-secrets-credentials-or-private-data/
+Glitch: https://glitch.happyfox.com/kb/article/18-how-do-i-store-secrets-credentials-or-private-data/  
 GitIgnore: https://git-scm.com/docs/gitignore  
 Informations sensibles on GitHub: https://help.github.com/en/articles/removing-sensitive-data-from-a-repository  
 
