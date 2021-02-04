@@ -1,4 +1,4 @@
-# Création Serveurs **Token Reset**
+# ![Creation Serveur Logo](https://i.imgur.com/XnmWmaA.png) Création Serveurs **Token Reset**
 This repository will log all tokens send in a message on Discord. This is to secure your token by resetting it
 
 ## What happened
@@ -32,3 +32,7 @@ Repl.it: https://repl.it/site/docs/repls/secret-keys
 Glitch: https://glitch.com/help/env/  
 GitIgnore: https://git-scm.com/docs/gitignore  
 Sensitive Data on GitHub: https://help.github.com/en/articles/removing-sensitive-data-from-a-repository
+### Creation Serveurs
+Discord: https://discord.gg/MPARfex
+Website: *Soon*
+Email: [cserveurs@gmail.com](mailto:cserveurs@gmail.com)
