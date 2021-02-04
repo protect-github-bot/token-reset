@@ -34,5 +34,7 @@ GitIgnore: https://git-scm.com/docs/gitignore
 Sensitive Data on GitHub: https://help.github.com/en/articles/removing-sensitive-data-from-a-repository
 ### Creation Serveurs
 Discord: https://discord.gg/MPARfex
+
 Website: *Soon*
+
 Email: [cserveurs@gmail.com](mailto:cserveurs@gmail.com)
