@@ -5,7 +5,7 @@ This repository will log all tokens send in a message on Discord. This is to sec
 
 1) You leaked your token.
 2) I found your token.
-3) I uploaded it to this gist.
+3) I uploaded it to this repository.
 
 ## But why?
 
