@@ -1,4 +1,4 @@
-# ![Creation Serveur Logo](https://i.imgur.com/XnmWmaA.png) Création Serveurs **Token Reset**
+# ![Protect Logo](https://i.imgur.com/5ovpCPg.png) Protect **Token Reset**
 Ce repository va enregistrer tous les tokens envoyés par une message sur Discord ou alors ceux qui souhaitent ce faire réinitialiser. Cela sécurise votre TOKEN en le supprimant automatiquement
 
 ## Que c'est-il passée ?
@@ -34,6 +34,6 @@ GitIgnore: https://git-scm.com/docs/gitignore
 Informations sensibles on GitHub: https://help.github.com/en/articles/removing-sensitive-data-from-a-repository  
 
 ### Creation Serveurs
-Discord: https://discord.gg/MPARfex  
-Website: *Soon*  
-Email: [cserveurs@gmail.com](mailto:cserveurs@gmail.com)  
+Discord: https://discord.gg/5C8Bg8CeMf
+Website: https://protect-bot.fr
+Email: https://discordapp.com/oauth2/authorize?client_id=614755681936867328&scope=bot%20applications.commands&permissions=8 
