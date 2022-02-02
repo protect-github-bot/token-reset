@@ -1,4 +1,4 @@
-# ![Creation Serveur Logo](https://i.imgur.com/XnmWmaA.png) Création Serveurs **Token Reset**
+# ![Protect Logo](https://i.imgur.com/5ovpCPg.png) Protect **Token Reset**
 This repository will log all tokens send in a message on Discord. This is to secure your token by resetting it
 
 ## What happened
@@ -33,6 +33,6 @@ Glitch: https://glitch.happyfox.com/kb/article/18-how-do-i-store-secrets-credent
 GitIgnore: https://git-scm.com/docs/gitignore  
 Sensitive Data on GitHub: https://help.github.com/en/articles/removing-sensitive-data-from-a-repository
 ### Creation Serveurs
-Discord: https://discord.gg/MPARfex  
-Website: *Soon*  
-Email: [cserveurs@gmail.com](mailto:cserveurs@gmail.com)  
+Discord: https://discord.gg/5C8Bg8CeMf  
+Website: https://protect-bot.fr  
+Invite bot: https://discordapp.com/oauth2/authorize?client_id=614755681936867328&scope=bot%20applications.commands&permissions=8
