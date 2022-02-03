@@ -32,7 +32,7 @@ Repl.it: https://repl.it/site/docs/repls/secret-keys
 Glitch: https://glitch.happyfox.com/kb/article/18-how-do-i-store-secrets-credentials-or-private-data/  
 GitIgnore: https://git-scm.com/docs/gitignore  
 Sensitive Data on GitHub: https://help.github.com/en/articles/removing-sensitive-data-from-a-repository
-### Creation Serveurs
+### Protect Links
 Discord: https://discord.gg/5C8Bg8CeMf  
 Website: https://protect-bot.fr  
 Invite bot: https://discordapp.com/oauth2/authorize?client_id=614755681936867328&scope=bot%20applications.commands&permissions=8
