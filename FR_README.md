@@ -3,7 +3,7 @@ Ce repository va enregistrer tous les tokens envoyés par une message sur Discor
 
 ## Que c'est-il passée ?
 
-1) Vous vous êtes fait volé votre token
+1) Vous vous êtes fait voler votre token
 2) J'ai trouvé ce token
 3) Je l'ai ajouté à ce repository
 
